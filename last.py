@@ -1,5 +1,4 @@
 from tkinter import*
-import website
 import tkinter.font as font
 from PIL import ImageTk,Image
 import os
