@@ -138,7 +138,7 @@ def main():
 
     def show_en():
         show_ent=Toplevel()
-        show_ent.geometry("600x450")
+        show_ent.geometry("700x450")
         db=sqlite3.connect("mark_list.db")
     #cursor
         c=db.cursor()
