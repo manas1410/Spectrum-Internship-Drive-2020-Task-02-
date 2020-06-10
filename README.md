@@ -15,7 +15,11 @@ The Close button should close all the existing GUIs.
 
 (Choose any type data base and SQL  of your choice)
 
-================================Instructions======================================== Download all the files and logo folder also. Then Run welcome.py
+================================Instructions======================================== 
+You can download my Student Mark entry app from this link-https://drive.google.com/drive/folders/1_erF0TSPamuGJVAdMyMEp5o4rlrZhJcP?usp=sharing
+and run welcome.exe  app .
+                                                 OR
+Download all the files and logo folder also from this repository.Please download python packages i.e.,tkinter,PIL,sqlite3 and then Run welcome.py
 
 Screen 1-Sign in windown if you have already have account then sign in otherwise you have to press create a account button to go to create account window , where you have to enter the details i.e. full name , branch, registration Id, password. in that window you will get yours username and password , then you have to click BACK button to go back to login screen.In login page enter your username and password and then click on SUBMIT button.
 
@@ -25,4 +29,4 @@ Screen 3-After this next window will open where you have to click on the respect
 
 Screen 4-Next window will appear where you can see cgpa and grade of that student by clicking on respective buttons i.e. cgpa button and grade button, also there new input button is present by clicking on this Screen 2 will appear again to input the next student details . 'Show Entries' button will show all the entries that you have entered. 'Close' button will close all the windows .
 
-Thank you for giving me this internship "Spectrum Club'.I have learned a lot from this internship which will be very heplful for my career.
+Thank you for giving me this internship 'Spectrum Club'.I have learned a lot from this internship which will be very heplful for my career.
