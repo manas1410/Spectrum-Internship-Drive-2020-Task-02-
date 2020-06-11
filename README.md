@@ -16,7 +16,7 @@ The Close button should close all the existing GUIs.
 (Choose any type data base and SQL  of your choice)
 
 ================================Instructions======================================== 
-You can download my Student Mark entry app from this link-https://drive.google.com/drive/folders/1_erF0TSPamuGJVAdMyMEp5o4rlrZhJcP?usp=sharing
+You can download my Student Mark entry app from this link-https://drive.google.com/file/d/1Zt7RnxnzQGrDPfysWZmCFtqbw8GAXkSb/view?usp=sharing
 and run welcome.exe  app .
                                                  OR
 Download all the files and logo folder also from this repository.Please download python packages i.e.,tkinter,PIL,sqlite3 and then Run welcome.py
